@@ -17,7 +17,6 @@ Content-Type: application/json
 }
 ```
 Make a request ```./consumer/api/client.http```.
-- Exemplo
 ```
  GET http://localhost:3003/balances/0e96d032-86fd-11ec-8b22-9a5ce86758a4
 
